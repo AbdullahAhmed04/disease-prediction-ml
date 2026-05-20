@@ -28,5 +28,5 @@ cd disease-prediction-ml
 4. **Launch the App:**
    python app.py
 
-# License
+## License
 Distributed under the MIT License
