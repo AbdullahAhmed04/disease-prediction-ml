@@ -15,17 +15,17 @@ This project maps multi-feature user symptom inputs into diagnostic predictions.
 
 ## How to Run Locally
 
-1. Clone the repository:
+1. **Clone the repository:**
    git clone [https://github.com/AbduulahAhmed04/disease-prediction-ml.git](https://github.com/AbdullahAhmed04/disease-prediction-ml.git)
 cd disease-prediction-ml
 
-2. Install Dependencies:
+2. **Install Dependencies:**
    pip install -r requirements.txt.txt
    
-3. Verify Model Access:
+3. **Verify Model Access:**
    Ensure disease_model.pkl, label_encoder.pkl, and symptoms.pkl are sitting in the root directory. If missing, run the training notebook inside the notebooks/ directory to generate them
 
-4. Launch the App:
+4. **Launch the App:**
    python app.py
 
 # License
