@@ -1,4 +1,4 @@
-# 🏥 AI-Powered Disease Prediction Web App
+# AI-Powered Disease Prediction Web App
 
 ![App Interface](app_screenshot.PNG)
 
